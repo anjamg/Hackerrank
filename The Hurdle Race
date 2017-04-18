@@ -37,7 +37,6 @@ int main(){
        }
     }
     int m=0;
-    /*h=max_element(height.begin(),height.end());*/
     if (h>k){
         m=h-k;
     }
